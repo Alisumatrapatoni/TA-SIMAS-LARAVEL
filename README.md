@@ -1,3 +1,15 @@
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/0.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/1.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/2.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/3.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/4.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/5.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/6.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/7.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/8.png?raw=true)
+![alt text](https://github.com/Alisumatrapatoni/TA-SIMAS-LARAVEL/blob/main/public/Hasil-Capture/9.png?raw=true)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
